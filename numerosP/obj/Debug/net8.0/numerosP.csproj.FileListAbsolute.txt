@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\bin\Debug\net8.0\numerosP.exe
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\bin\Debug\net8.0\numerosP.deps.json
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\bin\Debug\net8.0\numerosP.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\bin\Debug\net8.0\numerosP.dll
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\bin\Debug\net8.0\numerosP.pdb
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\obj\Debug\net8.0\numerosP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\obj\Debug\net8.0\numerosP.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\obj\Debug\net8.0\numerosP.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\obj\Debug\net8.0\numerosP.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\obj\Debug\net8.0\numerosP.dll
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\obj\Debug\net8.0\refint\numerosP.dll
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\obj\Debug\net8.0\numerosP.pdb
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\obj\Debug\net8.0\numerosP.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\reto 3 refuerzo libertad\juego\numerosP\obj\Debug\net8.0\ref\numerosP.dll
